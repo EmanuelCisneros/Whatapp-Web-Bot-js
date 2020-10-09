@@ -33,19 +33,6 @@ Elon Musk may be right, perhaps the little Zuckberg [is just being limited in th
 
 I can't guarantee that you are not getting banned in a long term using this Bot. I really don't think so, but I can't guarantee.
 
-#### Bullshit! I got banned using yowsup!
-
-Hold on mate, there are kids here.
-
-First, [yowsup](https://github.com/tgalal/yowsup) is a great python library! Simply awesome.
-
-But their problem is: They connect to Whatsapp servers directly, without any middlware. So it is not so hard for whatsapp team to create ban-rules you if you are using yowsup.
-
-I got banned many times in past, so I know, soon or later, you will get banned as well. Is just a matter of time.  You can see that I am probably right just looking [here](https://github.com/tgalal/yowsup/issues/1558), 
-[here](https://github.com/tgalal/yowsup/issues/1979), 
-[here](https://github.com/tgalal/yowsup/issues/1806) and
-[here](https://github.com/tgalal/yowsup/issues/1686).
-
 That's why I did this code. Using whatsapp web, it is almost impossible for whatsapp team to know that you are running a Bot.
 
 #### But... What are the limitations?
